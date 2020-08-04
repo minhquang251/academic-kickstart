@@ -8,42 +8,35 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer Vision, Image Processing, Pattern
+  Recognition, and Machine Learning.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Image processing
+  - Pattern Recognition
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 251minhquang@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/minhquang251
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S in Computer Science
+      institution: Texas Christian University
+      year: 2022
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Quang Truong is a rising Computer Science junior at Texas Christian University. He has conducted
+research on Artificial Intelligence and other related fields under the supervision of Dr. Bo Mei. His
+research focuses on Computer Vision, Image Processing, Pattern Recognition, and Machine Learning.
+Besides his dedication to researching, he also makes great endeavors to advance in Algorithms and
+Mathematics. His team of three TCU students achieved a Bronze Medal at ACM-ICPC 2019 South
+Central USA Regional Contest – an annual competitive programming competition. He also won the
+first prize at the TCU Calculus Bee 2019.
