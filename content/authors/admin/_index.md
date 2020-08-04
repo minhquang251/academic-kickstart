@@ -1,7 +1,7 @@
 ---
 title: Quang Truong
 role: Undergraduate Research Assistant
-avatar_filename: webp.net-resizeimage.jpg
+avatar_filename: webp.net-resizeimage-min.jpg
 organizations:
   - name: Texas Christian University
     url: ""
@@ -17,6 +17,9 @@ interests:
   - Pattern Recognition
   - Machine Learning
 social:
+  - link: mailto:quang.truong@tcu.edu
+    icon_pack: fas
+    icon: envelope
   - icon: github
     icon_pack: fab
     link: https://github.com/minhquang251
