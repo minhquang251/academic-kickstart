@@ -17,15 +17,9 @@ interests:
   - Pattern Recognition
   - Machine Learning
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 251minhquang (at) gmail (dot) com
   - icon: github
     icon_pack: fab
     link: https://github.com/minhquang251
-  - link: https://www.researchgate.net/profile/Quang_Truong6
-    icon_pack: ai
-    icon: researchgate
   - link: https://www.linkedin.com/in/quang-cm-truong/
     icon_pack: fab
     icon: linkedin
