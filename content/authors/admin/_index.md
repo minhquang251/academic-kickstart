@@ -1,7 +1,7 @@
 ---
 title: Quang Truong
 role: Undergraduate Research Assistant
-avatar_filename: webp.net-resizeimage.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Texas Christian University
     url: ""
