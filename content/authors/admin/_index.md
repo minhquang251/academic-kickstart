@@ -19,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 251minhquang@gmail.com
+    link: 251minhquang (at) gmail (dot) com
   - icon: github
     icon_pack: fab
     link: https://github.com/minhquang251
