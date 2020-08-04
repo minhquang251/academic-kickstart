@@ -26,6 +26,9 @@ social:
   - link: https://www.linkedin.com/in/quang-cm-truong/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: ai
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Quang_Truong6
 education:
   courses:
     - course: B.S in Computer Science
