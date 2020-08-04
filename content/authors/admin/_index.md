@@ -1,9 +1,9 @@
 ---
 title: Quang Truong
 role: Undergraduate Research Assistant
-avatar_filename: headshot.png
+avatar_filename: webp.net-resizeimage.jpg
 organizations:
-  - name: Stanford University
+  - name: Texas Christian University
     url: ""
 superuser: true
 authors:
@@ -23,6 +23,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/minhquang251
+  - link: https://www.researchgate.net/profile/Quang_Truong6
+    icon_pack: ai
+    icon: researchgate
+  - link: https://www.linkedin.com/in/quang-cm-truong/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: B.S in Computer Science
