@@ -34,7 +34,7 @@ education:
     - course: B.S in Computer Science
       institution: Texas Christian University
       year: 2022
-email: ""
+email: "q"
 user_groups:
   - Researchers
   - Visitors
