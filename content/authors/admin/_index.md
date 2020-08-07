@@ -40,7 +40,7 @@ user_groups:
   - Visitors
 ---
 Quang Truong is a rising Computer Science junior at Texas Christian University. He has conducted
-research on Artificial Intelligence and other related fields under the supervision of Dr. Bo Mei. His
+research on Artificial Intelligence and other related fields under the supervision of [Dr. Bo Mei](http://personal.tcu.edu/bmei/). His
 research focuses on Computer Vision, Image Processing, Pattern Recognition, and Machine Learning.
 Besides his dedication to researching, he also makes great endeavors to advance in Algorithms and
 Mathematics. His team of three TCU students achieved a Bronze Medal at ACM-ICPC 2019 South
