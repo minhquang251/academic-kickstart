@@ -34,7 +34,7 @@ education:
     - course: B.S in Computer Science
       institution: Texas Christian University
       year: 2022
-email: "q"
+email: "quang.truong@tcu.edu"
 user_groups:
   - Researchers
   - Visitors
