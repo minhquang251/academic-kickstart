@@ -10,7 +10,7 @@
   
 [[main]]
   name = "CV"
-  url = "Curriculum_Vitae.pdf"
+  url = "files/cv.pdf"
   weight = 20
 
 [[main]]
