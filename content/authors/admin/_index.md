@@ -44,5 +44,5 @@ research on Artificial Intelligence and other related fields under the supervisi
 research focuses on Computer Vision, Image Processing, Pattern Recognition, and Machine Learning.
 Besides his dedication to researching, he also makes great endeavors to advance in Algorithms and
 Mathematics. His team of three TCU students achieved a Bronze Medal at [ACM-ICPC 2019 South
-Central USA Regional Contest] (http://ld2019.scusa.lsu.edu/standings-contest-dir/) – an annual competitive programming competition. He also won the
-first prize at the [TCU Calculus Bee 2019] (http://faculty.tcu.edu/richardson/CalcBee/CalcBee2019_actual.pdf).
+Central USA Regional Contest](http://ld2019.scusa.lsu.edu/standings-contest-dir/) – an annual competitive programming competition. He also won the
+first prize at the [TCU Calculus Bee 2019](http://faculty.tcu.edu/richardson/CalcBee/CalcBee2019_actual.pdf).
