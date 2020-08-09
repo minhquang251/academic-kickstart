@@ -67,7 +67,7 @@ before feeding images into ResNet50 backbone.
   title = "Research Assistant - AI-2-Go Project"
   company = "TCU Department of Computer Science"
   company_url = ""
-  location = Fort Worth, TX"
+  location = "Fort Worth, TX"
   date_start = "January 2019"
   date_end = "September 2019"
   description = """
