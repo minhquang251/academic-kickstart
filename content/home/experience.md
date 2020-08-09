@@ -34,7 +34,7 @@ before feeding images into ResNet50 backbone.
   """
 
 [[experience]]
-  title = "Research Assistant - Image-based Vehicle Re-identification (AI City Challenge 2020)"
+  title = "Research Assistant - Image-based Vehicle Re-identification Project (AI City Challenge 2020)"
   company = "TCU Department of Computer Science"
   company_url = ""
   location = Fort Worth, TX"
@@ -49,7 +49,7 @@ before feeding images into ResNet50 backbone.
   """
   
  [[experience]]
-  title = "Research Assistant - Housing Price Prediction via Improved Machine Learning Techniques"
+  title = "Research Assistant - Beijing Housing Price Prediction Project"
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
