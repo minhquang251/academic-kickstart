@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "May 2020"
   date_end = ""
   description = """
-  *Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
+  * Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
 for filter-level learning.
-  *Design Variational Autoencoder (VAE) to reconstruct images that exclude vehicle-specific details.
-  *Design convex combination function for residual images and original images to effectively enhance the salient features
+  * Design Variational Autoencoder (VAE) to reconstruct images that exclude vehicle-specific details.
+  * Design convex combination function for residual images and original images to effectively enhance the salient features
 before feeding images into ResNet50 backbone.
-  *Evaluate the model on popular benchmarks VeRi-776 and Vehicle-1M
+  * Evaluate the model on popular benchmarks VeRi-776 and Vehicle-1M
   """
 
 [[experience]]
