@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergaduate Research Assistant - VAE-Powered Vehicle Re-identification Project"
+  title = "Research Assistant - VAE-Powered Vehicle Re-identification Project"
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "2020-05-01"
+  date_start = "May 2020"
   date_end = ""
   description = """
   * Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
@@ -34,12 +34,61 @@ before feeding images into ResNet50 backbone.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant - Image-based Vehicle Re-identification (AI City Challenge 2020)"
+  company = "TCU Department of Computer Science"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = Fort Worth, TX"
+  date_start = "December 2019"
+  date_end = "May 2020"
+  description = """
+  * Designed a Vehicle Re-identification pipeline to compete in 2020 AI City Challenge - CVPR 2020 workshop.
+  * Adopted Detectron2 (Faster-RCNN) developed by Facebook to effectively crop image for noise reduction.
+  * Proposed adaptive attention-driven model with ResNet50 backbone for Vehicle Re-identification.
+  * Proposed metadata re-ranking method that takes color and type features extracted by ResNeXt101 into consideration when performing k-reciprocal re-ranking.
+  * Evaluated model on CityFlow Dataset.
+  """
+  
+ [[experience]]
+  title = "Research Assistant - Housing Price Prediction via Improved Machine Learning Techniques"
+  company = "TCU Department of Computer Science"
+  company_url = ""
+  location = "Fort Worth, TX"
+  date_start = "June 2019"
+  date_end = "December 2019"
+  description = """
+  * Researched different Machine Learning and Deep Learning methods used to forecast housing price.
+  * Applied multiple techniques such as Stack Generalization or Hybrid Regression to enhance the prediction.
+  * Visualized the housing price distribution of Beijing to find the correlation between price and other features.
+  * Evaluated the performance of tree-based regression models on feature-rich datasets.
+  * Investigated the enhancement of prediction results after combining Machine Learning and Deep Learning models.
+  """
+  
+  [[experience]]
+  title = "Research Assistant - AI-2-Go Project"
+  company = "TCU Department of Computer Science"
+  company_url = ""
+  location = Fort Worth, TX"
+  date_start = "January 2019"
+  date_end = "September 2019"
+  description = """
+  * Re-modeled Alpha Go Zero to discover the optimal solutions for Go game.
+  * Calculated the winning probability of each move using Monte Carlo Tree Search.
+  * Simulated Go matches between two AIs to find the better AI version.
+  * Contributed to the open source project of Alpha Go Zero, Leela Zero.
+  """
+  
+  [[experience]]
+  title = "Technical Team Member - MSU State Space Robotics Team"
+  company = "MSU Department of Computer Science and Engineering"
+  company_url = ""
+  location = "Mississippi State, MS"
+  date_start = "October 2017"
+  date_end = "December 2018"
+  description = """
+  * Simulated environments for testing obstacle avoidance features of robots using ROS.
+  * Visualized movements of multiple minibots in 2D using Python.
+  * Visualized the environments in 3D using Gazebo.
+  * Delivered the final robot to the yearly NASA Robotic Mining Competition.
+  """
 
 +++
