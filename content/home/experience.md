@@ -37,7 +37,7 @@ before feeding images into ResNet50 backbone.
   title = "Research Assistant - Image-based Vehicle Re-identification Project (AI City Challenge 2020)"
   company = "TCU Department of Computer Science"
   company_url = ""
-  location = Fort Worth, TX"
+  location = "Fort Worth, TX"
   date_start = "December 2019"
   date_end = "May 2020"
   description = """
