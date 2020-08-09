@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "May 2020"
+  date_start = "2020-05-01"
   date_end = ""
   description = """
   * Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
