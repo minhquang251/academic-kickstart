@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergaduate Research Assistant - VAE-Powered Vehicle Re-identification Project"
+  company = "TCU Department of Computer Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Fort Worth, TX"
+  date_start = "May 2020"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  *Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
+for filter-level learning.
+  *Design Variational Autoencoder (VAE) to reconstruct images that exclude vehicle-specific details.
+  *Design convex combination function for residual images and original images to effectively enhance the salient features
+before feeding images into ResNet50 backbone.
+  *Evaluate the model on popular benchmarks VeRi-776 and Vehicle-1M
   """
 
 [[experience]]
