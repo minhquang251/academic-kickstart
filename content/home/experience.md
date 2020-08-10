@@ -88,7 +88,7 @@ before feeding images into ResNet50 backbone.
   * Simulated environments for testing obstacle avoidance features of robots using ROS.
   * Visualized movements of multiple minibots in 2D using Python.
   * Visualized the environments in 3D using Gazebo.
-  * Delivered the final robot to the yearly NASA Robotic Mining Competition.
+  * Delivered the final robot to the yearly NASA Robotic Mining Competition [`code`](#static/files/poster-ai-2-go.pdf).
   """
-
 +++
+Test
