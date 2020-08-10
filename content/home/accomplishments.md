@@ -19,33 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "International Collegiate Programming Contest"
+  organization_url = "https://icpc.foundation/"
+  title = "Bronze Medal in ACM-ICPC 2019 South Central USA Regional Contest"
+  url = "http://ld2019.scusa.lsu.edu/standings-contest-dir/"
+  certificate_url = ""
+  date_start = "2019-10-01"
   date_end = ""
-  description = ""
+  description = "
+  * Ranked 12/60 in General Leaderboard
+  * Ranked 1/19 in Leaderboard for Undergraduate-program-only Institutions
+  "
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "TCU SERC - Undergraduate Grants"
+  organization_url = "https://cse.tcu.edu/research/serc-undergraduate.php"
+  title = "Research Grant for Beijing Housing Price Prediction - $1500"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-10-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "TCU SERC - Undergraduate Grants"
+  organization_url = "https://cse.tcu.edu/research/serc-undergraduate.php"
+  title = "Research Grant for AI-2-Go - $1500"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "TCU Department of Mathematics"
+  organization_url = ""
+  title = "Calculus Bee 2019"
+  url = ""
+  certificate_url = "http://faculty.tcu.edu/richardson/CalcBee/CalcBee2019_actual.pdf"
+  date_start = "2019-04-01"
+  date_end = ""
   description = ""
 
 +++
