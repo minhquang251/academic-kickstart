@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  * Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
-for filter-level learning.
-  * Design Variational Autoencoder (VAE) to reconstruct images that exclude vehicle-specific details.
-  * Design convex combination function for residual images and original images to effectively enhance the salient features
-before feeding images into ResNet50 backbone.
-  * Evaluate the model on popular benchmarks VeRi-776 and Vehicle-1M
   """
 
 [[experience]]
@@ -41,11 +35,6 @@ before feeding images into ResNet50 backbone.
   date_start = "2019-12-01"
   date_end = "2020-05-01"
   description = """
-  * Designed a Vehicle Re-identification pipeline to compete in 2020 AI City Challenge - CVPR 2020 workshop.
-  * Adopted Detectron2 (Faster-RCNN) developed by Facebook to effectively crop image for noise reduction.
-  * Proposed adaptive attention-driven model with ResNet50 backbone for Vehicle Re-identification.
-  * Proposed metadata re-ranking method that takes color and type features extracted by ResNeXt101 into consideration when performing k-reciprocal re-ranking.
-  * Evaluated model on CityFlow Dataset.
   """
   
  [[experience]]
@@ -56,11 +45,6 @@ before feeding images into ResNet50 backbone.
   date_start = "2019-06-01"
   date_end = "2019-12-01"
   description = """
-  * Researched different Machine Learning and Deep Learning methods used to forecast housing price.
-  * Applied multiple techniques such as Stack Generalization or Hybrid Regression to enhance the prediction.
-  * Visualized the housing price distribution of Beijing to find the correlation between price and other features.
-  * Evaluated the performance of tree-based regression models on feature-rich datasets.
-  * Investigated the enhancement of prediction results after combining Machine Learning and Deep Learning models.
   """
   
   [[experience]]
@@ -71,10 +55,6 @@ before feeding images into ResNet50 backbone.
   date_start = "2019-01-01"
   date_end = "2019-09-01"
   description = """
-  * Re-modeled Alpha Go Zero to discover the optimal solutions for Go game.
-  * Calculated the winning probability of each move using Monte Carlo Tree Search.
-  * Simulated Go matches between two AIs to find the better AI version.
-  * Contributed to the open source project of Alpha Go Zero, Leela Zero.
   """
   
   [[experience]]
@@ -85,9 +65,5 @@ before feeding images into ResNet50 backbone.
   date_start = "2017-10-01"
   date_end = "2018-12-01"
   description = """
-  * Simulated environments for testing obstacle avoidance features of robots using ROS.
-  * Visualized movements of multiple minibots in 2D using Python.
-  * Visualized the environments in 3D using Gazebo.
-  * Delivered the final robot to the yearly NASA Robotic Mining Competition.
   """
 +++
