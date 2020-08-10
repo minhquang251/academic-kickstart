@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "May 2020"
+  date_start = "2020-05-01"
   date_end = ""
   description = """
   * Design a Vehicle Re-identification pipeline which is powered by VAE for image augmentation and filter grafting methods
@@ -38,8 +38,8 @@ before feeding images into ResNet50 backbone.
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "Dec 2019"
-  date_end = "May 2020"
+  date_start = "2019-12-01"
+  date_end = "2020-05-01"
   description = """
   * Designed a Vehicle Re-identification pipeline to compete in 2020 AI City Challenge - CVPR 2020 workshop.
   * Adopted Detectron2 (Faster-RCNN) developed by Facebook to effectively crop image for noise reduction.
@@ -53,8 +53,8 @@ before feeding images into ResNet50 backbone.
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "Jun 2019"
-  date_end = "Dec 2019"
+  date_start = "2019-06-01"
+  date_end = "2019-12-01"
   description = """
   * Researched different Machine Learning and Deep Learning methods used to forecast housing price.
   * Applied multiple techniques such as Stack Generalization or Hybrid Regression to enhance the prediction.
@@ -68,8 +68,8 @@ before feeding images into ResNet50 backbone.
   company = "TCU Department of Computer Science"
   company_url = ""
   location = "Fort Worth, TX"
-  date_start = "Jan 2019"
-  date_end = "Sep 2019"
+  date_start = "2019-01-01"
+  date_end = "2019-09-01"
   description = """
   * Re-modeled Alpha Go Zero to discover the optimal solutions for Go game.
   * Calculated the winning probability of each move using Monte Carlo Tree Search.
@@ -82,8 +82,8 @@ before feeding images into ResNet50 backbone.
   company = "MSU Department of Computer Science and Engineering"
   company_url = ""
   location = "Mississippi State, MS"
-  date_start = "Oct 2017"
-  date_end = "Dec 2018"
+  date_start = "2017-10-01"
+  date_end = "2018-12-01"
   description = """
   * Simulated environments for testing obstacle avoidance features of robots using ROS.
   * Visualized movements of multiple minibots in 2D using Python.
