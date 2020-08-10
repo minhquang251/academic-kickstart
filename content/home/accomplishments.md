@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = ""
-  description = "Ranked 12/60 in General Leaderboard. Ranked 1/19 in Leaderboard for Undergraduate-program-only Institutions"
+  description = "Ranked 12/60 in General Leaderboard. Ranked 1/19 in Leaderboard for Undergraduate-program-only Institutions."
 
 [[item]]
   organization = "TCU SERC - Undergraduate Grants"
