@@ -3,6 +3,12 @@ title: Image-based Vehicle Re-identification Model with Adaptive Attention
   Modules and Metadata Re-ranking
 date: 2020-08-10T19:48:43.788Z
 summary: ""
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
 draft: false
 featured: true
 authors:
@@ -11,7 +17,7 @@ authors:
   - Zhankai Ye
   - Minh Nguyen
   - Bo Mei
-external_link: https://quang-truong.com/project/image-based-vehicle-re-identification-model-with-adaptive-attention-modules-and-metadata-re-ranking/
+external_link: #project/image-based-vehicle-re-identification-model-with-adaptive-attention-modules-and-metadata-re-ranking/
 links:
   - url: https://www.researchgate.net/publication/342706767_Image-based_Vehicle_Re-identification_Model_with_Adaptive_Attention_Modules_and_Metadata_Re-ranking
     name: Research Gate
