@@ -66,7 +66,7 @@ before feeding images into ResNet50 backbone.
   [[experience]]
   title = "Research Assistant - AI-2-Go Project"
   company = "TCU Department of Computer Science"
-  company_url = "{{% staticref "files/poster-ai-2-go.pdf" %}}here{{% /staticref %}}"
+  company_url = ""
   location = "Fort Worth, TX"
   date_start = "2019-01-01"
   date_end = "2019-09-01"
