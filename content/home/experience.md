@@ -66,7 +66,7 @@ before feeding images into ResNet50 backbone.
   [[experience]]
   title = "Research Assistant - AI-2-Go Project"
   company = "TCU Department of Computer Science"
-  company_url = ""
+  company_url = "{{% staticref "files/poster-ai-2-go.pdf" %}}here{{% /staticref %}}"
   location = "Fort Worth, TX"
   date_start = "2019-01-01"
   date_end = "2019-09-01"
@@ -75,7 +75,6 @@ before feeding images into ResNet50 backbone.
   * Calculated the winning probability of each move using Monte Carlo Tree Search.
   * Simulated Go matches between two AIs to find the better AI version.
   * Contributed to the open source project of Alpha Go Zero, Leela Zero.
-  * Poster is available {{% staticref "files/poster-ai-2-go.pdf" %}}here{{% /staticref %}}.
   """
   
   [[experience]]
