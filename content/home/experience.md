@@ -75,6 +75,7 @@ before feeding images into ResNet50 backbone.
   * Calculated the winning probability of each move using Monte Carlo Tree Search.
   * Simulated Go matches between two AIs to find the better AI version.
   * Contributed to the open source project of Alpha Go Zero, Leela Zero.
+  * Poster is available {{% staticref "files/poster-ai-2-go.pdf" %}}here{{% /staticref %}}.
   """
   
   [[experience]]
