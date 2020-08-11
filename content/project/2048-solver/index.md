@@ -1,14 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AI-2-Go"
-summary: "Based on the open-source engine, we plan to take an alternative path
-utilizing LeelaZero: finding the optimal results/solutions on different
-board sizes from 3x3 up to 9x9..."
+title: "2048 Solver"
+summary: "A simple program to play 2048 automatically."
 authors: []
 tags: []
 categories: []
-date: 2019-04-11
+date: 2017-12-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: "/files/poster-ai-2-go.pdf"
+url_code: "https://github.com/quang-truong/2048-Solver"
+url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "/files/2048_solver.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -41,12 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Based on the open-source engine, we plan to take an alternative path
-utilizing LeelaZero: finding the optimal results/solutions on different
-board sizes from 3x3 up to 9x9. Because of symmetry, there is a
-difference between an even and an odd n x n board size. Therefore, we
-aim to: The project is a very challenging one because of the Reinforcement
-Learning learning curve like the concept of Monte Carlo Tree
-Search. Some challenges we may face are:
-* Obtain optimal solutions for board sizes from 3x3 to 9x9.
-* Integrate the project idea into teaching in mathematic topics.
+Based on recursive algorithm which is used to maximize game score, I developed a simple program to play 2048 automatically. Additionally, I also designed a score function to take the monotonicity of tiles into account, mimicking the strategy of human. The whole program is written in Python with the help of TkInter for graphics.
