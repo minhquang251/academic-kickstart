@@ -22,7 +22,7 @@ social:
     icon: envelope
   - icon: github
     icon_pack: fab
-    link: https://github.com/minhquang251
+    link: https://github.com/quang-truong
   - link: https://www.linkedin.com/in/quang-cm-truong/
     icon_pack: fab
     icon: linkedin
