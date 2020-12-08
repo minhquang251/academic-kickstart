@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "TCU SERC - Undergraduate Grants"
   organization_url = "https://cse.tcu.edu/research/serc-undergraduate.php"
-  title = "Research Grant for Domain-invariant Vehicle Re-identification Network - $1471"
+  title = "Research Grant for Domain-invariant Network for Vehicle Re-identification - $1471"
   url = ""
   certificate_url = ""
   date_start = "2020-10-01"
