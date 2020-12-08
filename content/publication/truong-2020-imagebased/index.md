@@ -9,6 +9,7 @@ comments: false  # Show comments?
 authors: ["Quang Truong", "Hy Dang", "Zhankai Ye", "Minh Nguyen", "Bo Mei"]
 publication_types: ["4"]
 featured: true
+publication: "*The Boller Review 2020* - TCU Press"
 abstract: "Vehicle Re-identification is a challenging task due to intra-class variability and inter-class similarity across non-overlapping cameras. To tackle these problems, recently proposed methods require additional annotation to extract more features for false positive image exclusion. In this paper, we propose a model powered by adaptive attention modules that requires fewer label annotations but still out-performs the previous models. We also include a re-ranking method that takes account of the importance of metadata feature embeddings in our paper. The proposed method is evaluated on CVPR AI City Challenge 2020 dataset and achieves mAP of 37.25% in Track 2."
 tags: ["Deep Learning", "Metric Learning", "Attention Mechanism", "Computer Vision", "Image Processing"]
 url_pdf: "https://arxiv.org/abs/2007.01818"
@@ -17,6 +18,10 @@ links:
     name: Research Gate
     icon_pack: ai
     icon: researchgate
+  - url: https://github.com/quang-truong/AIC2020
+    name: Github
+    icon_pack: fab
+    icon: github
 header:
   image: image_based_featured.png
 image:
