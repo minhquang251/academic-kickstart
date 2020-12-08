@@ -10,11 +10,7 @@
   
 [[main]]
   name = "CV"
-<<<<<<< HEAD
-  url = "files/Quang_Truong___CV.pdf"
-=======
   url = "files/Curriculum_Vitae___Quang_Truong.pdf"
->>>>>>> refs/remotes/origin/master
   weight = 20
 
 [[main]]
