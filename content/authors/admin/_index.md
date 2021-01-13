@@ -13,7 +13,7 @@ bio: My research interests include Computer Vision, Image Processing, Pattern
 interests:
   - Artificial Intelligence
   - Computer Vision
-  - Image processing
+  - Image Processing
   - Pattern Recognition
   - Machine Learning
 social:
