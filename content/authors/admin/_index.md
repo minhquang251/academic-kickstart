@@ -29,6 +29,9 @@ social:
   - icon_pack: ai
     icon: researchgate
     link: https://www.researchgate.net/profile/Quang_Truong6
+  - icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=vKZ2bIwAAAAJ&hl=en
 education:
   courses:
     - course: B.S in Computer Science
