@@ -18,18 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Intern - 3D Holistic Scene Understanding Project"
+  company = "University of Illinois at Chicago"
+  company_url = ""
+  location = "Chicago, IL"
+  date_start = "2021-05-18"
+  date_end = ""
+  description = """
+  """
+[[experience]]
   title = "Research Assistant - Domain-invariant Network for Vehicle Re-identification Project"
-  company = "TCU Department of Computer Science"
+  company = "Texas Christian University"
   company_url = ""
   location = "Fort Worth, TX"
   date_start = "2019-12-01"
-  date_end = ""
+  date_end = "2021-05-15"
   description = """
   """
 
 [[experience]]
   title = "Research Assistant - Image-based Vehicle Re-identification Project (AI City Challenge 2020)"
-  company = "TCU Department of Computer Science"
+  company = "Texas Christian University"
   company_url = ""
   location = "Fort Worth, TX"
   date_start = "2019-12-01"
@@ -39,7 +48,7 @@ date_format = "Jan 2006"
   
  [[experience]]
   title = "Research Assistant - Beijing Housing Price Prediction Project"
-  company = "TCU Department of Computer Science"
+  company = "Texas Christian University"
   company_url = ""
   location = "Fort Worth, TX"
   date_start = "2019-06-01"
@@ -48,18 +57,8 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Research Assistant - AI-2-Go Project"
-  company = "TCU Department of Computer Science"
-  company_url = ""
-  location = "Fort Worth, TX"
-  date_start = "2019-01-01"
-  date_end = "2019-09-01"
-  description = """
-  """
-  
-  [[experience]]
-  title = "Technical Team Member - MSU State Space Robotics Team"
-  company = "MSU Department of Computer Science and Engineering"
+  title = "Technical Member"
+  company = "MSU State Space Robotics Team"
   company_url = ""
   location = "Mississippi State, MS"
   date_start = "2017-10-01"

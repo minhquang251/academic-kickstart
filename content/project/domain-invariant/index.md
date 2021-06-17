@@ -1,14 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AI-2-Go"
-summary: "Based on the open-source engine, we plan to take an alternative path
-utilizing LeelaZero: finding the optimal results/solutions on different
-board sizes from 3x3 up to 9x9..."
+title: "Domain-invariant Learning in Vehicle Re-identification"
+summary: "Vehicle Re-identification (re-id) aims to retrieve matching vehicles across different cameras. Unlike person re-id ..."
 authors: []
 tags: []
 categories: []
-date: 2019-04-11
+date: 2019-05-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "/files/poster-ai-2-go.pdf"
+url_pdf: "/files/SRS2021-QuangTruong.pdf"
 url_slides: ""
 url_video: ""
 
@@ -41,11 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Based on the open-source engine, we plan to take an alternative path
-utilizing LeelaZero: finding the optimal results/solutions on different
-board sizes from 3x3 up to 9x9. Because of symmetry, there is a
-difference between an even and an odd n x n board size. The project is a very challenging one because of the Reinforcement
-Learning learning curve like the concept of Monte Carlo Tree
-Search. Some challenges we may face are:
-* Obtain optimal solutions for board sizes from 3x3 to 9x9.
-* Integrate the project idea into teaching in mathematic topics.
+Vehicle Re-identification (re-id) aims to retrieve matching
+vehicles across different cameras. Unlike person re-
+id where a person can be easily recognized by pose
+or face, vehicles are hard to be distinguished because
+they share similar attributes to each other. In our
+research project, we leverage the superior performance
+of deep neural networks (DNN) on high-level computer
+vision tasks to extract discriminative features of each
+vehicle. To further enhance the performance of DNNs,
+we develop a robust domain-invariant pipeline for multi-
+domain learning

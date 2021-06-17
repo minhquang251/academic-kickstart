@@ -11,7 +11,6 @@ authors:
 bio: My research interests include Computer Vision, Image Processing, Pattern
   Recognition, and Machine Learning.
 interests:
-  - Artificial Intelligence
   - Computer Vision
   - Image Processing
   - Pattern Recognition
@@ -42,7 +41,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Quang Truong is a rising Computer Science junior at Texas Christian University. He has conducted
-research on Artificial Intelligence and related fields under the supervision of [Dr. Bo Mei](http://personal.tcu.edu/bmei/). His
-research focuses on Computer Vision, Image Processing, Pattern Recognition, and Machine Learning. Specifically, the latest projects study Image-based Vehicle Re-identification and Image Generative Models such as Variational Autoencoders and Generative Adversarial Networks. Besides his dedication to researching, he also makes great endeavors to advance in Algorithms and Mathematics. His team of three TCU students achieved a Bronze Medal at [ACM-ICPC 2019 South Central USA Regional Contest](http://ld2019.scusa.lsu.edu/standings-contest-dir/) – an annual competitive programming competition. He also won the
-first prize at the [TCU Calculus Bee 2019](http://faculty.tcu.edu/richardson/CalcBee/CalcBee2019_actual.pdf).
+Quang Truong is a rising Computer Science senior at Texas Christian University. He has conducted research on Artificial Intelligence and related fields under the supervision of [Dr. Bo Mei](http://personal.tcu.edu/bmei/). His research focuses on Computer Vision, Image Processing, Pattern Recognition, and Machine Learning. Specifically, the latest projects study Image-based Vehicle Re-identification and Image Generative Models such as Variational Autoencoders and Generative Adversarial Networks. He also spent an amazing summer at University of Illinois at Chicago as a research intern under the guidance of [Dr. Wei Tang](https://tangw.people.uic.edu/). Besides his dedication to researching, he also makes great endeavors to advance in Algorithms and Mathematics. His team of three TCU students achieved a Bronze Medal at [ACM-ICPC 2019 South Central USA Regional Contest](http://ld2019.scusa.lsu.edu/standings-contest-dir/) – an annual competitive programming competition. He also won the first prize at the [TCU Calculus Bee 2019](http://faculty.tcu.edu/richardson/CalcBee/CalcBee2019_actual.pdf).
